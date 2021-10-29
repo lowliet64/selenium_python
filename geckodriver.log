@@ -1025,3 +1025,542 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
 
+1635255866487	geckodriver	INFO	Listening on 127.0.0.1:49292
+1635255869475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49293" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilekVdL0K"
+1635255869998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilekVdL0K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49293/devtools/browser/72be9526-f316-4744-8752-4cd91d6e3045
+1635255872553	Marionette	INFO	Listening on port 49298
+1635255872644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255973034	Marionette	INFO	Stopped listening on port 49298
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635255974867	geckodriver	INFO	Listening on 127.0.0.1:61921
+1635255977849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61922" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileich641"
+1635255978274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileich641\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61922/devtools/browser/aaae9745-9d73-4ccd-a169-c3ae6aab38ea
+1635255980768	Marionette	INFO	Listening on port 61927
+1635255981043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635256073639	Marionette	INFO	Stopped listening on port 61927
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+##!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+1635256068559	Marionette	INFO	Stopped listening on port 55700
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635256099005	geckodriver	INFO	Listening on 127.0.0.1:54875
+1635256102010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54876" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileUK6tIe"
+1635256102390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileUK6tIe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54876/devtools/browser/6c6c959d-68ac-48e0-8f5d-5b1804f1656e
+1635256104657	Marionette	INFO	Listening on port 54881
+1635256105180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635256172322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635256179783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635256216628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635256227232	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635256253181	Marionette	INFO	Stopped listening on port 54881
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChe1635256254675	Marionette	INFO	Stopped listening on port 54965
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+55030/devtools/browser/ec95bd1e-9f7f-4a5b-8da2-2e529c8c2742
+1635256234489	Marionette	INFO	Listening on port 55036
+1635256234914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635256243625	Marionette	INFO	Stopped listening on port 55036
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635256250923	geckodriver	INFO	Listening on 127.0.0.1:55025
+1635256253892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55028" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileIxS4q3"
+1635256254239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileIxS4q3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55028/devtools/browser/8336761f-506e-4e35-8334-b9f25856a52b
+1635256256457	Marionette	INFO	Listening on port 55038
+1635256256552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635256273421	Marionette	INFO	Stopped listening on port 55038
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635256280068	geckodriver	INFO	Listening on 127.0.0.1:55103
+1635256283071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55104" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilezF7B3e"
+1635256283409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilezF7B3e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55104/devtools/browser/c9604e71-a5fb-4741-b665-d1e06b7b2c9d
+1635256285478	Marionette	INFO	Listening on port 55109
+1635256285744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635256293190	Marionette	INFO	Stopped listening on port 55109
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635258917201	geckodriver	INFO	Listening on 127.0.0.1:57102
+1635258920203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57103" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileMc4X5c"
+1635258920572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileMc4X5c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57103/devtools/browser/6a0618b1-3899-4d07-bff8-aede0d5c3f53
+1635258922797	Marionette	INFO	Listening on port 57108
+1635258922865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635258938959	Marionette	INFO	Stopped listening on port 57108
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+57155/devtools/browser/183e9116-d56f-411c-a5b2-53be481dce9c
+1635258938415	Marionette	INFO	Listening on port 57160
+1635258938451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635259457398	Marionette	INFO	Stopped listening on port 57160
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+50660/devtools/browser/d5827a43-af74-4350-ad93-fbc4c3b7c9d8
+1635259457479	Marionette	INFO	Listening on port 50665
+1635259458002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-edp.mapia.ai"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-edp.mapia.ai"
+1635259838641	Marionette	INFO	Stopped listening on port 50665
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+53921/devtools/browser/a995adf7-bdcc-494d-a3e7-787cc3d3c31d
+1635259722232	Marionette	INFO	Listening on port 53927
+1635259722455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-edp.mapia.ai"
+1635259840145	Marionette	INFO	Stopped listening on port 53927
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestDevTools listening on ws://localhost:59135/devtools/browser/1b7ef9cc-e998-4fde-8cf9-a60af2ff950c
+1635259840476	Marionette	INFO	Listening on port 59140
+1635259840886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 1697 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635260119802	Marionette	INFO	Stopped listening on port 59140
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from1635260118905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofiletepwWr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59332/devtools/browser/7b021f9b-092c-4b2f-b3e2-00d9ca4e7757
+1635260121403	Marionette	INFO	Listening on port 59337
+1635260121638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635262192675	Marionette	INFO	Stopped listening on port 59337
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635268124770	geckodriver	INFO	Listening on 127.0.0.1:55363
+1635268127769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55364" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilessJMOM"
+1635268128885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilessJMOM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55364/devtools/browser/a05e9528-8471-434b-85bf-b20cbb5d0960
+1635268132038	Marionette	INFO	Listening on port 55369
+1635268132115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635268426371	Marionette	INFO	Stopped listening on port 55369
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+55462/devtools/browser/803f5751-5c01-4031-bf71-0981afd5da01
+1635268270499	Marionette	INFO	Listening on port 55467
+1635268270589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635268428609	Marionette	INFO	Stopped listening on port 55467
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+55529/devtools/browser/de50bca2-33c2-41e5-a184-d203584084cb
+1635268303298	Marionette	INFO	Listening on port 55534
+1635268303603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635268432501	Marionette	INFO	Stopped listening on port 55534
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+35\\AppData\\Local\\Temp\\rust_mozprofiledSI7VV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55597/devtools/browser/a11342ba-094f-482a-b7c1-f340c8c259d8
+1635268337752	Marionette	INFO	Listening on port 55602
+1635268338239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635268430542	Marionette	INFO	Stopped listening on port 55602
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+55665/devtools/browser/4b4106d9-0abe-442c-9435-ec5af148a49f
+1635268377059	Marionette	INFO	Listening on port 55670
+1635268377261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1635268434409	Marionette	INFO	Stopped listening on port 55670
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+55743/devtools/browser/c7efbadd-33fc-4474-b91e-ea45cbbdb743
+1635268430013	Marionette	INFO	Listening on port 55749
+1635268430249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635269481058	Marionette	INFO	Stopped listening on port 55749
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+n
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635269481792	Marionette	INFO	Stopped listening on port 65247
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+n
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1635269323429	Marionette	INFO	Stopped listening on port 65316
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635269482805	Marionette	INFO	Stopped listening on port 64377
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+S certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635268969190	Marionette	INFO	Stopped listening on port 64443
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+64511/devtools/browser/173a9109-295f-4c1e-a429-6b2cf6ccf668
+1635268919417	Marionette	INFO	Listening on port 64518
+1635268919654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635269483859	Marionette	INFO	Stopped listening on port 64518
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+S certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635268968241	Marionette	INFO	Stopped listening on port 64592
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635269028937	geckodriver	INFO	Listening on 127.0.0.1:55186
+1635269031945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55187" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilekZ4IiP"
+1635269032281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilekZ4IiP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55187/devtools/browser/642ceb4e-23e0-4631-b674-6f0322b653a7
+1635269034505	Marionette	INFO	Listening on port 55192
+1635269034631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269484675	Marionette	INFO	Stopped listening on port 55192
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+55260/devtools/browser/80f222cc-d793-4be4-853c-804c7e0009a6
+1635269073718	Marionette	INFO	Listening on port 55265
+1635269074116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269472959	Marionette	INFO	Stopped listening on port 55265
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+49790/devtools/browser/afd8c35c-f967-4324-b280-f676fe88ba63
+1635269118308	Marionette	INFO	Listening on port 49795
+1635269118762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269322583	Marionette	INFO	Stopped listening on port 49795
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+49858/devtools/browser/dd97bf56-8639-44e6-a352-4ef40d003b83
+1635269141386	Marionette	INFO	Listening on port 49863
+1635269141419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269313231	Marionette	INFO	Stopped listening on port 49863
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+on port 49935
+1635269202222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269518697	Marionette	INFO	Stopped listening on port 49935
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+50064/devtools/browser/e5992031-9ac9-4346-8614-37127c54a669
+1635269264071	Marionette	INFO	Listening on port 50071
+1635269264438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269318501	Marionette	INFO	Stopped listening on port 50071
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+sm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635269534687	geckodriver	INFO	Listening on 127.0.0.1:58684
+1635269537687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58685" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofiledGdhYl"
+1635269538020	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofiledGdhYl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58685/devtools/browser/aa3a338f-cc76-467d-bf54-0a2293b21b4f
+1635269540420	Marionette	INFO	Listening on port 58690
+1635269540857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269595835	Marionette	INFO	Stopped listening on port 58690
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+58753/devtools/browser/0abf7662-0565-4961-93c7-d07135915fd5
+1635269581841	Marionette	INFO	Listening on port 58758
+1635269581881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269598093	Marionette	INFO	Stopped listening on port 58758
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635269603064	geckodriver	INFO	Listening on 127.0.0.1:60243
+1635269606063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60244" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileNSHhgY"
+1635269606399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileNSHhgY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60244/devtools/browser/0d38ccb9-3767-42fc-941e-1e644b9411f0
+1635269608661	Marionette	INFO	Listening on port 60249
+1635269608725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269843767	Marionette	INFO	Stopped listening on port 60249
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+60310/devtools/browser/4ec6b4fd-01f5-4cc2-a96b-37444ab9c57e
+1635269642455	Marionette	INFO	Listening on port 60315
+1635269642933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269844473	Marionette	INFO	Stopped listening on port 60315
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+61980/devtools/browser/ae4f890b-a417-4022-8296-6702bec6e946
+1635269685760	Marionette	INFO	Listening on port 61986
+1635269686280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269845145	Marionette	INFO	Stopped listening on port 61986
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+62048/devtools/browser/beba48c5-61d1-4cb1-ac8b-5372a172b42e
+1635269724361	Marionette	INFO	Listening on port 62053
+1635269724576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635270058085	Marionette	INFO	Stopped listening on port 62053
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+62117/devtools/browser/ecc24631-5d61-45c8-b713-ee5c0cce1608
+1635269761579	Marionette	INFO	Listening on port 62122
+1635269762069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635269841886	Marionette	INFO	Stopped listening on port 62122
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635270054256	geckodriver	INFO	Listening on 127.0.0.1:51812
+1635270057234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51813" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilecKIYZi"
+1635270057588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilecKIYZi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51813/devtools/browser/eb09c9ac-d3b2-48fe-b21b-a69ba5760e5b
+1635270059771	Marionette	INFO	Listening on port 51818
+1635270059889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635270201047	Marionette	INFO	Stopped listening on port 51818
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+archSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileku0f09\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51881/devtools/browser/4167deae-a3f9-4076-b52a-6064bf6662a6
+1635270119506	Marionette	INFO	Listening on port 51886
+1635270119541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635270200269	Marionette	INFO	Stopped listening on port 51886
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+archSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileXalnES\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51953/devtools/browser/3683fd2e-6d54-4a09-a087-86450028dfb5
+1635270194342	Marionette	INFO	Listening on port 51958
+1635270194447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635270201736	Marionette	INFO	Stopped listening on port 51958
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileeY2bpX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52016/devtools/browser/5bf8648c-8f25-4939-bd48-b7638a8f2a62
+1635270203450	Marionette	INFO	Listening on port 52023
+1635270203628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635271479580	Marionette	INFO	Stopped listening on port 52023
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+n
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635271478786	Marionette	INFO	Stopped listening on port 52091
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+n
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635271478018	Marionette	INFO	Stopped listening on port 52158
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+n
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635271477289	Marionette	INFO	Stopped listening on port 64649
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+n
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635270827251	Marionette	INFO	Stopped listening on port 64718
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+35\\AppData\\Local\\Temp\\rust_mozprofileSefDyi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64326/devtools/browser/3861d231-4d3e-4c1d-9275-00682fffe176
+1635270748692	Marionette	INFO	Listening on port 64331
+1635270748969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635271256163	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1635271476447	Marionette	INFO	Stopped listening on port 64331
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+5270773915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635271475615	Marionette	INFO	Stopped listening on port 64397
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+S certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635271311082	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1635271474952	Marionette	INFO	Stopped listening on port 63602
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+5270932878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635271672752	Marionette	INFO	Stopped listening on port 59205
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from1635271673182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofile5aiAqi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65041/devtools/browser/47081d9e-911a-40e5-98ee-85895ba8bf4f
+1635271675972	Marionette	INFO	Listening on port 65046
+1635271676292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635271801941	Marionette	INFO	Stopped listening on port 65046
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+55125/devtools/browser/607281e9-c05b-481b-b965-47c91b2e1cc6
+1635271759890	Marionette	INFO	Listening on port 55130
+1635271760425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635271800223	Marionette	INFO	Stopped listening on port 55130
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
