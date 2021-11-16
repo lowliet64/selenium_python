@@ -1564,3 +1564,296 @@ JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError:
 JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635769836311	geckodriver	INFO	Listening on 127.0.0.1:58505
+1635769839295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58506" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofile8xuxFf"
+1635769840582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofile8xuxFf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58506/devtools/browser/f1d8478e-6bfa-45b3-a3c2-c97fa409610e
+1635769844196	Marionette	INFO	Listening on port 58511
+1635769844753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635770364570	Marionette	INFO	Stopped listening on port 58511
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635770369320	geckodriver	INFO	Listening on 127.0.0.1:64649
+1635770372312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64650" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofile1sr7UZ"
+1635770372713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofile1sr7UZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64650/devtools/browser/bc9c4b74-f439-46a1-8836-ec3b11d79711
+1635770375116	Marionette	INFO	Listening on port 64655
+1635770375497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635771483833	Marionette	INFO	Stopped listening on port 64655
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635771515880	geckodriver	INFO	Listening on 127.0.0.1:53951
+1635771518871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53952" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileC4kKxr"
+1635771519339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileC4kKxr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53952/devtools/browser/9d194c93-d1aa-4b13-b2c5-15a508c65a39
+1635771521578	Marionette	INFO	Listening on port 53957
+1635771522054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+JavaScript error: https://dev-edp.mapia.ai/pwa/static/js/2.c421a8ed.chunk.js, line 2: Error: Request failed with status code 500
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635772142891	Marionette	INFO	Stopped listening on port 53957
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+59891/devtools/browser/d34e62b1-bf78-4942-ba22-23bbae799eb5
+1635772139925	Marionette	INFO	Listening on port 59896
+1635772140163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635772266960	Marionette	INFO	Stopped listening on port 59896
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635772269945	geckodriver	INFO	Listening on 127.0.0.1:64804
+1635772272913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64805" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileMEjApX"
+1635772273295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileMEjApX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64805/devtools/browser/ea838efe-adcc-40a0-ad7d-d0d9d77dfdd9
+1635772275715	Marionette	INFO	Listening on port 64810
+1635772276101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635773977010	Marionette	INFO	Stopped listening on port 64811635773977444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53081" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileEO0Rze"
+1635773977799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileEO0Rze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53081/devtools/browser/f775b5e9-dbfd-4495-b09f-634e6d54477d
+1635773980193	Marionette	INFO	Listening on port 53086
+1635773980622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635774008047	Marionette	INFO	Stopped listening on port 53081635774008327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54377" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileuxucmp"
+1635774008810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileuxucmp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54377/devtools/browser/58151d5d-2fe2-4045-932a-7688dd576658
+1635774011430	Marionette	INFO	Listening on port 54383
+1635774011495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635774905709	Marionette	INFO	Stopped listening on port 54383
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Componenconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilesuwQn5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55661/devtools/browser/9a47acab-e404-4ad1-b074-a9c51d6d1dad
+1635774907600	Marionette	INFO	Listening on port 55666
+1635774907854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1635775318369	Marionette	INFO	Stopped listening on port 55666
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635775322589	geckodriver	INFO	Listening on 127.0.0.1:56636
+1635775325549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56637" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileRDZWA5"
+1635775325911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileRDZWA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56637/devtools/browser/f769f267-9984-4656-be82-20c5002b6ceb
+1635775328312	Marionette	INFO	Listening on port 56642
+1635775328705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635776247831	Marionette	INFO	Stopped listening on port 56642
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/1635776248231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileLh17Yr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54316/devtools/browser/b05f57b9-db93-4b76-8920-b9a60f76fa87
+1635776250714	Marionette	INFO	Listening on port 49805
+1635776250877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635776277156	Marionette	INFO	Stopped listening on port 49805
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635776429877	geckodriver	INFO	Listening on 127.0.0.1:50142
+1635776432871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50143" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileIfKCmc"
+1635776433232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileIfKCmc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50143/devtools/browser/dc329114-c64f-444b-aef7-eab869c7ef7d
+1635776435899	Marionette	INFO	Listening on port 50148
+1635776436060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+1635776530121	Marionette	INFO	Stopped listening on port 50148
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635776533111	geckodriver	INFO	Listening on 127.0.0.1:55212
+1635776536105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55213" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilevUWk5M"
+1635776536533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilevUWk5M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55213/devtools/browser/888f55de-2e8c-4d7b-b0c9-1c1a3b5f2607
+1635776539362	Marionette	INFO	Listening on port 61054
+1635776539806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1635782120233	Marionette	INFO	Stopped listening on port 61054
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635791276245	geckodriver	INFO	Listening on 127.0.0.1:50523
+1635791279212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50524" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilep4252W"
+1635791279897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilep4252W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50524/devtools/browser/005bffa4-41a0-48df-b1f8-89d4f838731f
+1635791283611	Marionette	INFO	Listening on port 50529
+1635791284140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635792677217	Marionette	INFO	Stopped listening on port 50529
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635795764723	geckodriver	INFO	Listening on 127.0.0.1:56505
+1635795795183	geckodriver	INFO	Listening on 127.0.0.1:58102
+1635795798197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58103" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilevprHbb"
+1635795798528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilevprHbb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58103/devtools/browser/bbbf33b7-667e-4a5b-a2b0-eb03caa76145
+1635795800833	Marionette	INFO	Listening on port 51356
+1635795800880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635795836198	Marionette	INFO	Stopped listening on port 51356
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+62893/devtools/browser/a9a51067-188c-4dc0-bfe3-f4bd215668d4
+1635795833429	Marionette	INFO	Listening on port 54502
+1635795833719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635810358419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635811674938	Marionette	INFO	Stopped listening on port 54502
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 14464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636034766742	geckodriver	INFO	Listening on 127.0.0.1:51111
+1636034769732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51112" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofile1mjDSD"
+1636034770914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofile1mjDSD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51112/devtools/browser/88b36e77-309c-4869-bebe-fa7d20bde51a
+1636034774248	Marionette	INFO	Listening on port 51117
+1636034774559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636039676960	Marionette	INFO	Stopped listening on port 51117
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390159,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390159,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390159,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390159,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014C,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014C,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014C,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1636069763928	geckodriver	INFO	Listening on 127.0.0.1:53261
+1636069766899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53262" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileLCaQ8t"
+1636069783110	geckodriver	INFO	Listening on 127.0.0.1:53316
+1636069786073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53317" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileHjZ2Dc"
+1636069786507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileHjZ2Dc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53317/devtools/browser/4a932355-79ed-4fdf-b3fe-0cc249f96bd3
+1636069789233	Marionette	INFO	Listening on port 53324
+1636069789276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636070584687	Marionette	INFO	Stopped listening on port 53324
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636125226716	geckodriver	INFO	Listening on 127.0.0.1:56682
+1636125229699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56683" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofileIuFnw3"
+1636125230983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofileIuFnw3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56683/devtools/browser/a9d3830b-6d6d-4e02-a81e-9b9de31b8cd5
+1636125234625	Marionette	INFO	Listening on port 57436
+1636125235023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636132907547	Marionette	INFO	Stopped listening on port 57436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilerhOFmf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49176/devtools/browser/0b184789-4c5d-4db8-9f6b-e219fcbe3f08
+1636125256538	Marionette	INFO	Listening on port 53894
+1636125257029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1115: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636132904594	Marionette	INFO	Stopped listening on port 53894
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636637817200	geckodriver	INFO	Listening on 127.0.0.1:64354
+1636637820205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64355" "-no-remote" "-profile" "C:\\Users\\201820~1\\AppData\\Local\\Temp\\rust_mozprofilevRXUMQ"
+1636637821224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\20182014040035\\AppData\\Local\\Temp\\rust_mozprofilevRXUMQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64355/devtools/browser/39660a64-0c41-4307-b659-410650ebbcd1
+1636637824386	Marionette	INFO	Listening on port 64360
+1636637824445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-edp.mapia.ai/assets/js/app.js, line 30: TypeError: $(...).metisMenu is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636639527285	Marionette	INFO	Stopped listening on port 64360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
