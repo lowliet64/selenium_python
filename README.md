@@ -34,3 +34,9 @@
 ```
     java -jar selenium-server.jar node
 ```
+
+- Para registrar um Node a um Hub que esta em outra rede utilize
+```
+    java -jar .\selenium-server.jar node --config config.json
+```
+-nota: Caso precise , altere o endereço no arquivo config.json
